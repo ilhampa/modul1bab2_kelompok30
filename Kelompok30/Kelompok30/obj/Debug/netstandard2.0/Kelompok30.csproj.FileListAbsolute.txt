@@ -1,0 +1,16 @@
+E:\Praktikum MDP\modul 1 bab 2 xamarin\Kelompok30\Kelompok30\Kelompok30\obj\Debug\netstandard2.0\Kelompok30.csproj.CoreCompileInputs.cache
+E:\Praktikum MDP\modul 1 bab 2 xamarin\Kelompok30\Kelompok30\Kelompok30\obj\Debug\netstandard2.0\Kelompok30.AssemblyInfoInputs.cache
+E:\Praktikum MDP\modul 1 bab 2 xamarin\Kelompok30\Kelompok30\Kelompok30\obj\Debug\netstandard2.0\Kelompok30.AssemblyInfo.cs
+D:\modul 1 bab 2 xamarin\Kelompok30\Kelompok30\Kelompok30\bin\Debug\netstandard2.0\Kelompok30.deps.json
+D:\modul 1 bab 2 xamarin\Kelompok30\Kelompok30\Kelompok30\bin\Debug\netstandard2.0\Kelompok30.dll
+D:\modul 1 bab 2 xamarin\Kelompok30\Kelompok30\Kelompok30\bin\Debug\netstandard2.0\Kelompok30.pdb
+D:\modul 1 bab 2 xamarin\Kelompok30\Kelompok30\Kelompok30\obj\Debug\netstandard2.0\Kelompok30.csprojAssemblyReference.cache
+D:\modul 1 bab 2 xamarin\Kelompok30\Kelompok30\Kelompok30\obj\Debug\netstandard2.0\Kelompok30.csproj.CoreCompileInputs.cache
+D:\modul 1 bab 2 xamarin\Kelompok30\Kelompok30\Kelompok30\obj\Debug\netstandard2.0\Kelompok30.App.xaml.g.cs
+D:\modul 1 bab 2 xamarin\Kelompok30\Kelompok30\Kelompok30\obj\Debug\netstandard2.0\Kelompok30.LoginPage.xaml.g.cs
+D:\modul 1 bab 2 xamarin\Kelompok30\Kelompok30\Kelompok30\obj\Debug\netstandard2.0\Kelompok30.MainPage.xaml.g.cs
+D:\modul 1 bab 2 xamarin\Kelompok30\Kelompok30\Kelompok30\obj\Debug\netstandard2.0\Kelompok30.SignUpPage.xaml.g.cs
+D:\modul 1 bab 2 xamarin\Kelompok30\Kelompok30\Kelompok30\obj\Debug\netstandard2.0\Kelompok30.AssemblyInfoInputs.cache
+D:\modul 1 bab 2 xamarin\Kelompok30\Kelompok30\Kelompok30\obj\Debug\netstandard2.0\Kelompok30.AssemblyInfo.cs
+D:\modul 1 bab 2 xamarin\Kelompok30\Kelompok30\Kelompok30\obj\Debug\netstandard2.0\Kelompok30.dll
+D:\modul 1 bab 2 xamarin\Kelompok30\Kelompok30\Kelompok30\obj\Debug\netstandard2.0\Kelompok30.pdb
